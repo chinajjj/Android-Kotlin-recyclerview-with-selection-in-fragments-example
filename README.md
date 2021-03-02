@@ -1,3 +1,4 @@
-# ViewPager2 + TabLayout + RecyclerView + SelectionTracker + Fragment + Example
+# ViewPager2 + TabLayout + RecyclerView + SelectionTracker + Fragment example on Kotlin
 
-![alt text](/SVID-20210302-060824-1.GIF "Kotlin example app using ViewPager2, TabLayout, RecyclerView, SelectionTracker and Fragment together.")
+<img src="/SVID-20210302-060824-1.GIF" width="200" height="400" />
+Kotlin example app using ViewPager2, TabLayout, RecyclerView, SelectionTracker and Fragment together.
